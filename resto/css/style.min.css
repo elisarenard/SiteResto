@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 46px
+    font-size: 46px;
 }
 
 h2, h4 {
@@ -56,7 +56,7 @@ ol, p, ul {
 a {
     -webkit-transition: .3s all;
     transition: .3s all;
-    color: #FFA33E
+    color: #ff9725
 }
 
 a:active, a:focus, a:hover {
@@ -1747,7 +1747,7 @@ section[data-section=menu] {
 
 .probootstrap-heading .primary-heading {
     font-family: "Pinyon Script", serif;
-    color: #FFA33E;
+    color: 	#FF1493;
     margin: 0;
     padding: 0;
     font-size: 80px
@@ -1761,7 +1761,7 @@ section[data-section=menu] {
 
 .probootstrap-heading .secondary-heading {
     text-transform: uppercase;
-    color: #fff;
+    color: 	#EE82EE;
     margin: 0;
     padding: 0;
     letter-spacing: .05em;
@@ -1779,7 +1779,7 @@ section[data-section=menu] {
 }
 
 .probootstrap-heading.dark .secondary-heading {
-    color: #000
+    color: 	#EE82EE
 }
 
 .probootstrap-heading .seperator {
